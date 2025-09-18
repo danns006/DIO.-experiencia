@@ -1,5 +1,7 @@
 # DIO.-experiencia
 
+feito por Daniel Novaes Santos.
+
 ## Bootcamp
 
 Este repositório documenta minha jornada de aprendizado no bootcamp da BairesDev de Machine Learning na DIO..
