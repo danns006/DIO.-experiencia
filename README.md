@@ -4,6 +4,10 @@
 
 Este repositório documenta minha jornada de aprendizado no bootcamp da BairesDev de Machine Learning na DIO..
 
+Durante o curso da DIO, tive contato com diversos conceitos fundamentais para o desenvolvimento de aplicações modernas com Python. Aprendi sobre Bibliotecas, fundamentos de inteligência artificial, e técnicas de engenharia de prompt. Além disso, explorei práticas de documentação, versionamento com GitHub e organização de projetos.
+
+Ao longo da jornada, enfrentei desafios técnicos que exigiram pesquisa, adaptação e persistência. Utilizei ferramentas como o Copilot para apoiar na resolução de problemas e na construção de soluções funcionais. Este repositório reúne parte do que foi desenvolvido e estudado sobre o aprendizado adquirido até aqui.
+
 ## Objetivos
 
 - Aprendizado da teoria de Machine Learning
