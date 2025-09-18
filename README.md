@@ -35,3 +35,15 @@ Ao longo da jornada, enfrentei desafios t√©cnicos que exigiram pesquisa, adapta√
 - https://colab.research.google.com/drive/1P0yISdNrswaTprf7HYIuKt7sAo1Q0Av1
 - https://colab.research.google.com/drive/1vHOHOxQjvzanolnZTuRH3C_pGrqzdEly
 - https://colab.research.google.com/drive/1OlFYdT6W3Hmtriu9e6-wDiU3LdXjDd7S
+
+## Tecnologias Utilizadas
+
+- Python
+- Pandas
+- Azure OpenAI (conceitos)
+- Torch + Torchvision
+- Annoy
+- Matplotlib
+- Pillow
+  
+
