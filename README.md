@@ -1,6 +1,6 @@
 # DIO.-experiencia
 
-# Bootcamp
+## Bootcamp
 
 Este repositório documenta minha jornada de aprendizado no bootcamp da BairesDev de Machine Learning na DIO..
 
@@ -28,12 +28,25 @@ Ao longo da jornada, enfrentei desafios técnicos que exigiram pesquisa, adapta�
 
 # Links de projetos praticos com Colab
 
+Rede Neural do zero:
 - https://colab.research.google.com/drive/117MYRj2M-nVmwps-pxygqewH22vqgafb?usp=drive_link
+  
+Projeto de Trasfer Learning:
 - https://colab.research.google.com/drive/1WXIV65oL4w3HP5AEYRPqSdB-Qg4pp7eX?usp=drive_link
+  
+Confusion Matriz:
 - https://colab.research.google.com/drive/1MDn8iLuTnpoqIrLhasq95xIdHWOWdD5D
+  
+Base de dados com a rede Yolo:
 - https://colab.research.google.com/drive/1WHvDlebhRoTWt3GPJqnDnIbBmK2d0yay
+  
+criando um sitema de reconhecimento facil do zero:
 - https://colab.research.google.com/drive/1P0yISdNrswaTprf7HYIuKt7sAo1Q0Av1
+
+Assitente virtual do zero:
 - https://colab.research.google.com/drive/1vHOHOxQjvzanolnZTuRH3C_pGrqzdEly
+
+Recomendador de imagens semelhantes:
 - https://colab.research.google.com/drive/1OlFYdT6W3Hmtriu9e6-wDiU3LdXjDd7S
 
 ## Tecnologias Utilizadas
